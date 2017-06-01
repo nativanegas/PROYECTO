@@ -1,0 +1,26 @@
+Hola, gracias por descargar Road Fighter
+El juego fue unicamente creado con el lenguaje de programacion Python y la libreria Tkinter
+
+Requerimiento:
+
+-Python versión 3.6
+
+
+Modulos (de Python) usados en el juego:
+
+-Tkinter
+-Math
+-Random
+
+Instalación:
+Se debe tener previamente instalado el lenguaje de programación Python y se debe descargar el archivo principal del
+juego junto con sus imagenes integradas, después de esto puede proceder a jugar.
+
+Importante:
+-Tanto el archivo como las imagenes del juego deben estar contenidos en una misma carpeta para el correcto 
+funcionamiento del juego.
+
+Créditos:
+Este juego ha sido creado exclusivamente con la interfaz grafica de usuario Tkinter para el lenguaje de programacion Python 
+por Natalia Vanegas Torres, estudiante de Matemáticas Aplicadas para el curso de Introduccion a la Programacion en la 
+Pontificia Universidad Javeriana, Cali, Colombia, 2017.
